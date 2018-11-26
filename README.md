@@ -4,5 +4,5 @@ Initial project for a React Native - Drupal integration:
   
     1. Login
     2. Logout
-    3. Views (to do)
-    4. Router
+    3. Views Mapping to tables (to do)
+    4. CRUD Entities operations 
